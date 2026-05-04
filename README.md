@@ -3,7 +3,7 @@ My name is Arthur De Clerck, I'm from Belgium and I'm an analyst developer and w
 
 I made an online portfolio [Here](https://www.arthur-declerck.be) and I'm still coding a few projects which you can mostly see here but some are only on my portfolio.
 
-I have a bachelor degree in Application Development Oriented Informatics from Hénallux and I'm currently undertaking a training course to be a software architect in .NET.
+I have a bachelor degree in Application Development Oriented Informatics from Hénallux and I also completed a training course to be a software architect in .NET.
 
 <!--
 **Rutradc/Rutradc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
